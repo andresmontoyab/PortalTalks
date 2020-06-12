@@ -3,6 +3,14 @@ import java.util.List;
 
 public class Class4 {
     /**
+     * HomeWork
+     * 1. Crear un array de 30 posiciones
+     * 2. Recorrer (while y for) el array y retornar la suma de todos los elementos
+     * 3. Recorrer (while y for) el array y retornar el producto de los elementos de las posiciones impares
+     * 4. Recorrer (while y for) el array de forma inversa y la suma del producto de la posicion por el elemento.
+     */
+
+    /**
      * Swicht - done
      * Array - done
      * While - For - done
