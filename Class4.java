@@ -3,12 +3,6 @@ import java.util.List;
 
 public class Class4 {
     /**
-     * If, else ->
-     * Expresion Boolean
-     * Tipos Primitivos
-     */
-
-    /**
      * Swicht - done
      * Array - done
      * While - For - done
